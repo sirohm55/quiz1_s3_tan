@@ -1,10 +1,10 @@
 // exercise 1//
-/*let message = "benr s"
+let message = "benr s"
 let number = 3
 console.log (message,number, "is my section")*/
 
 // exercise 2//
-/*
+
 let str = "25.5"
 let num = 3523
 str = parseInt (str)
@@ -17,16 +17,16 @@ course = parseFloat(num2) + parseFloat (num)
 console.log (course)
 
 //exercise 3
-/*
+
 let data = ["benr", 3523, true]
 
 console.log(data[0])
 console.log(data[1])
 console.log(data[2])
 console.log(data[3])
-*/
 
-/*let user = {
+
+let user = {
     name: "TAN",
     age: 50,
     faculty: "FKEKK" 
@@ -34,7 +34,9 @@ console.log(data[3])
 
 console.log (user.name)
 console.log (user.faculty)
-*/
+
+
+//exercise 5
 
 let messages = [
     {name: "Ohm", msg: "nice", date:"4/4/2023", like: 1000}, 
